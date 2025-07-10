@@ -1,0 +1,24 @@
+# Build artifacts
+build/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+webview_discord_bot
+libwebview.a
+*.o
+*.d
+
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# macOS
+.DS_Store
+
+# Environment variables
+.env
+
+# Configuration files (potentially sensitive)
+DBD/bot/config.json

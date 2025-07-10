@@ -1,0 +1,2 @@
+/usr/bin/ar qc libwebview.a CMakeFiles/webview.dir/webview/webview.cc.o
+/usr/bin/ranlib libwebview.a

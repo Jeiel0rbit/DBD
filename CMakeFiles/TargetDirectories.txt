@@ -1,0 +1,11 @@
+/home/jeiel/webview_discord_bot/CMakeFiles/webview_discord_bot.dir
+/home/jeiel/webview_discord_bot/CMakeFiles/edit_cache.dir
+/home/jeiel/webview_discord_bot/CMakeFiles/rebuild_cache.dir
+/home/jeiel/webview_discord_bot/webview/CMakeFiles/edit_cache.dir
+/home/jeiel/webview_discord_bot/webview/CMakeFiles/rebuild_cache.dir
+/home/jeiel/webview_discord_bot/webview/compatibility/CMakeFiles/edit_cache.dir
+/home/jeiel/webview_discord_bot/webview/compatibility/CMakeFiles/rebuild_cache.dir
+/home/jeiel/webview_discord_bot/webview/core/CMakeFiles/webview_core_shared.dir
+/home/jeiel/webview_discord_bot/webview/core/CMakeFiles/webview_core_static.dir
+/home/jeiel/webview_discord_bot/webview/core/CMakeFiles/edit_cache.dir
+/home/jeiel/webview_discord_bot/webview/core/CMakeFiles/rebuild_cache.dir
